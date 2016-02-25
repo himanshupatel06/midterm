@@ -1,0 +1,21 @@
+{
+  "name": "midterm",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/himanshupatel06/midterm",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
